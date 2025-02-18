@@ -1,9 +1,5 @@
 # File Organizer Script 📁
 
-<p align="center">
-  <img src="https://github.com/your-username/file-organizer/blob/main/assets/banner.png" alt="File Organizer Banner" width="600">
-</p>
-
 This Python script helps you organize files by moving them into folders based on their file type.
 
 ## Features ✨
